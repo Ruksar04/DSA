@@ -1,7 +1,7 @@
 /*
-Worst case: O(n^2)
+Worst case: O(n²)
 Best case: O(n)
-Average case: O(n^2)
+Average case: O(n²)
   */
 #include <stdio.h>
 void insertionsort(int a[], int n){
